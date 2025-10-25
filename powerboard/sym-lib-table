@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SS54-HF")(type "KiCad")(uri "${KIPRJMOD}/AerojudgePowerboard.pretty/SS54-HF.kicad_sym")(options "")(descr ""))
+  (lib (name "CustomConnectors")(type "KiCad")(uri "${KIPRJMOD}/AerojudgePowerboard.pretty/CustomConnectors.kicad_sym")(options "")(descr ""))
+)
