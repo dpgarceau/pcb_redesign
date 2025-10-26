@@ -102,4 +102,4 @@ Before starting, please confirm:
 
 ## Contact
 
-For questions or clarifications during design process, please open an issue in this repository.
+For questions or clarifications during design process, please contact me through upwork.
