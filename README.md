@@ -99,7 +99,6 @@ Before starting, please confirm:
 1. Are the provided sub-board references sufficient, or do you need additional datasheets?
 2. What board dimensions do you recommend based on component density?
 3. Any concerns about the voltage regulator redesign requirements?
-4. Estimated component cost impact vs. current design?
 
 ## Contact
 
