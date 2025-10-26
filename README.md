@@ -14,7 +14,7 @@ on the main board
 
 On the powerbord, we are using three sub boards mounted to this which is a pain!
 the three boards are - 
-  - INA226_Sensor
+  - INA226_Sensor (was using https://www.aliexpress.us/item/3256806274363321.html?gatewayAdapt=glo2usa4itemAdapt)
   - Pololu 2810 Switch (see additianl PDF to simplify this circuit)
   - Voltage Regulator* See note below
 The solder pads for the battery in conection should be replaced with an appriate DC power connector / plug
