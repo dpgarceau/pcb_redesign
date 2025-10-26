@@ -68,7 +68,7 @@ All external connectors between boards become internal traces:
 - Designer should specify connector types
 
 ### Physical Constraints
-- Base on Raspberry Pi 4 HAT form factor (can be larger if needed - provide size recommendations)
+- Base on Raspberry Pi 4 HAT form factor (can be larger if needed - maximum size without case redesign shown in `AeroJudge_PCB-Size.pdf`, provide size recommendations if that is not large enough)
 - **Connector height limit:** Approximately 5mm (90-degree connectors required for case clearance)
 - Components can be on both sides of board
 - **Avoid placing connectors on bottom side** (HAT clearance requirements)
