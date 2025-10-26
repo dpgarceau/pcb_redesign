@@ -24,6 +24,11 @@ The solder pads for the battery in conection should be replaced with an appriate
 
 these should be redesigned and consolidated to the main board - no sub assemblies - just one PCB that can be built as one part. such as using JLPCB-A.
 
+The LED connector should also be duplicated with a connector for a 3v3 LED so that i could use either. 
+
+Of course the other connectors (i2c, power/shutoff, and 5v batt) all go away as they bomcome traces on the new single board)
+
+
 New Main (single) board will have aerojudge logo, website link and be marked as board rev 3.0 - Size can be adjusted as needed. 
 Imac logo on rear can stay if it fits somewhere but is not important. 
 
